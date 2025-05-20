@@ -2,7 +2,7 @@
 .\venv\Scripts\Activate.ps1
 
 # 安装依赖和Playwright 浏览器内核
-(venv) PS> pip install -r requirements.txt
+(venv) PS> pip install -r requirements.txt  
 (venv) PS> playwright install chromium
 
 # 运行脚本
