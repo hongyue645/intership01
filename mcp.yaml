@@ -1,0 +1,6 @@
+mcpServers:
+  xiaohongshu MCP:
+    command: python
+    args:
+      - "E:/dasan/intership/RednoteMCP-main/xiaohongshu_mcp.py"
+      - "--stdio"
